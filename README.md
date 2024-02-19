@@ -4,15 +4,7 @@
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/200px-Node.js_logo.svg.png)
 
-![NPM Version](https://img.shields.io/node/v/passport.svg) ![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)
-
-![typescript](https://img.shields.io/badge/typescript-5.x-blue.svg)
-
-![npm](https://img.shields.io/badge/npm-10.x-red.svg)
-
-![swc](https://img.shields.io/badge/Compiler-SWC_-orange.svg)
-
-![docker](https://img.shields.io/badge/Dockerized 🐳\_-blue.svg)
+![NPM Version](https://img.shields.io/node/v/passport.svg) ![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg) ![typescript](https://img.shields.io/badge/typescript-5.x-blue.svg) ![npm](https://img.shields.io/badge/npm-10.x-red.svg) ![swc](https://img.shields.io/badge/Compiler-SWC_-orange.svg) ![](https://img.shields.io/badge/Dockerized%20%F0%9F%90%B3/_-blue.svg)
 
 ## App features
 
