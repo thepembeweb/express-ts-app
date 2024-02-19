@@ -1,10 +1,10 @@
 # Express Typescript App
 
-> A NodeJS app showcasing a production setup for a typescript powered express App.
+> A NodeJS app showcasing a production setup for a typescript-powered express App.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/200px-Node.js_logo.svg.png)
 
-[![NPM Version][npm-image]][npm-url] ![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)
+![NPM Version](https://img.shields.io/node/v/passport.svg) ![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)
 
 ![typescript](https://img.shields.io/badge/typescript-5.x-blue.svg)
 
